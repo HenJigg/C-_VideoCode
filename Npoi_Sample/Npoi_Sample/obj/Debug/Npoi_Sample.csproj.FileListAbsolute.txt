@@ -1,0 +1,17 @@
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\bin\Debug\Npoi_Sample.exe.config
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\bin\Debug\Npoi_Sample.exe
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\bin\Debug\Npoi_Sample.pdb
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.csprojAssemblyReference.cache
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\MainWindow.g.cs
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\App.g.cs
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample_MarkupCompile.cache
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample_MarkupCompile.lref
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\MainWindow.baml
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.g.resources
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.Properties.Resources.resources
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.csproj.GenerateResource.cache
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.csproj.CoreCompileInputs.cache
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.exe
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.pdb
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\bin\Debug\NPOI.dll
+C:\Users\zhouh\Desktop\C#视频\Npoi_Sample\Npoi_Sample\obj\Debug\Npoi_Sample.csproj.CopyComplete
